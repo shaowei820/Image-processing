@@ -46,3 +46,7 @@ colored_image: 標記紅色道路的影像 (numpy.ndarray)
 * 1.sobel_ksize 前處理 Sobel 邊緣檢測的核心大小（如 3x3）。
 * 2.lbp_threshold 紋理分析 用於紋理分析的 LBP 閾值。
 * 3.bfs_threshold 路徑搜尋 BFS 搜索的亮度閾值，控制道路區域的判斷。
+
+## DEMO 
+![image](https://github.com/user-attachments/assets/25b77875-68d7-4820-bb84-0cfaa3123fcc)
+
